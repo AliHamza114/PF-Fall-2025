@@ -2,7 +2,7 @@
 ## GITHUB
 *MD files contain description*\
 **Github contains repo**\
-***Github is web and cloud based platform***\
+***Github is web and cloud based platform***
 ### Main Concepts
 * Branch
 * Merge
